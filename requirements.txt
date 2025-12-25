@@ -1,0 +1,5 @@
+Django==4.2.27
+djangorestframework==3.14.0
+mysqlclient==2.2.7
+django-filter==23.5
+python-docx==1.2.0
